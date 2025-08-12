@@ -1,2 +1,2 @@
 # BADGES
-these are helpful for showcasiing the git hub
+these are helpful for showcaseing the GitHUb
